@@ -1,4 +1,4 @@
-### Hi there I am Issac, an amateur developer using Github for the firt time 👋
+### Hi there I am Issac, an amateur developer using Github for the first time 👋
 
 <!--
 **IssacLimJJ/IssacLimJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
